@@ -1,0 +1,7 @@
+How to install typescript ? 
+
+npm install typescript --save-dev
+
+
+node --version --> checking the node version.
+npm --version --> checking the npm version.
